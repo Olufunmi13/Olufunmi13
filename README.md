@@ -21,9 +21,8 @@
 
 I am a Data Analyst <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-- 🔭 I’m currently working on exploring datasets to get insights that enhances data-driven decisions
-- 🌱 I’m currently expanding my skillset on working with programming languages like R and Python
-- 👯 I’m looking to collaborate on Power BI projects and visualizations
-- 💬 Ask me about anything data analysis,data visualisation.
-- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/olufunke-oluwatuyi-8248141a1/)
+- 🔭 Currently working on exploring datasets to get insights that enhance data-driven decisions;
+- 🌱 Expanding my skillset on working with programming languages like R and Python;
+- 👯 Available to work on Power BI projects and visualizations.
+- 📫 Reach me via [![Linkedin Badge](https://img.shields.io/badge/-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/olufunke-oluwatuyi-8248141a1/)
 
