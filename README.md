@@ -12,13 +12,18 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 </div>
+<div align="center">
+  <img src="https://media.giphy.com/media/cnzou4ydGM7GJZ7VTz/giphy.gif" width="600" height="300"/>
+</div>
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### :woman_technologist: About Me :
+
+I am a Data Analyst <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+
+- 🔭 I’m currently working on exploring datasets to get insights that enhances data-driven decisions
+- 🌱 I’m currently expanding my skillset on working with programming languages like R and Python
+- 👯 I’m looking to collaborate on Power BI projects and visualizations
+- 💬 Ask me about anything data analysis,data visualisation.
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/olufunke-oluwatuyi-8248141a1/)
+
