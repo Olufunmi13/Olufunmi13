@@ -17,9 +17,9 @@
 
 ###  :woman_technologist: About Me :
 
-I am a Frontend engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+I am a Data analyst <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-- 🔭 I am currently improving my skills  ;
-- 🌱 I publish technical developer content on my Medium and Hashnode accounts;
+- 🔭 I am currently improving my skills on Python, Excel and power BI ;
+- 🌱 I look forward to collaborate on Power BI projects;
 - 📫 Reach me via [![Linkedin Badge](https://img.shields.io/badge/-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/olufunke-oluwatuyi-8248141a1/)
 
